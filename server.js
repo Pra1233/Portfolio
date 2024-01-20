@@ -24,7 +24,7 @@ app.get("*", (req, res) => {
 });
 
 //port
-const PORT = 3000;
+const PORT = 4000;
 
 //listen
 app.listen(PORT, () => {
